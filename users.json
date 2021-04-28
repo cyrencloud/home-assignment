@@ -1,0 +1,17 @@
+[
+  {
+  	name: "Oriana Byung-Ho",
+  	email: "o123@byung.com",
+  	dragons: 13
+  },
+  {
+  	name: "Magdaléna Simonu",
+  	email: "Simonu@byung.com",
+  	dragons: 8
+  },
+  {
+  	name: "Kaia Ilina",
+  	email: "kaia@byung.com",
+  	dragons: 5
+  }
+]
